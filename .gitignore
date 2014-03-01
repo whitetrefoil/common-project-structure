@@ -39,7 +39,7 @@ temp/
 *.bak
 *.orig
 *.REMOTE
-*.LOACL
+*.LOCAL
 *.BASE
 *.swp
 
