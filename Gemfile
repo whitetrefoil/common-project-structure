@@ -1,6 +1,7 @@
 # If you have OpenSSL installed, we recommend updating
 # the following line to use 'https'
-source 'https://rubygems.org'
+# source 'https://rubygems.org'
+source 'http://ruby.taobao.org'
 
 gem 'middleman', '~>3.2'
 
@@ -16,3 +17,4 @@ gem 'therubyracer', :platforms => [:ruby]
 gem 'slim'
 gem 'handlebars_assets'
 gem 'middleman-sprockets'
+gem 'puma'
